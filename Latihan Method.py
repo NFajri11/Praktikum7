@@ -1,6 +1,6 @@
 print('\033[1m','\33[34')
 print("=" * 65)
-print("|\tProgram Input Mahasiswa Menggunakan Fungsi\t| ")
+print("  |\tProgram Input Mahasiswa Menggunakan Fungsi\t|  ")
 print("=" * 65)
 
 dataMahasiswa = {}
@@ -74,3 +74,4 @@ while True :
             exit() 
     else:
         print("\33[31mPilihan Tidak Tidak Tersedia ")
+        
